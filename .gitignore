@@ -132,4 +132,6 @@ dmypy.json
 
 
 dataset/*
-
+.idea/*
+.idea
+.idea/
